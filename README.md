@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and a Open-Source Contributor from India</h3>
 <br>
 <br>
- <center><img align="right"alt="coding"width="400"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"></center>
+ <img align="center"alt="coding"width="400"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 <br>
 <br>
 
