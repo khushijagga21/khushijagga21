@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khushi Jagga</h1>
 <h3 align="center">A passionate frontend developer and a Open-Source Contributor from India</h3>
+<br>
+<br>
 <center><img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"><center/>
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushijagga21&label=Profile%20views&color=0e75b6&style=flat" alt="khushijagga21" /> </p>
 
