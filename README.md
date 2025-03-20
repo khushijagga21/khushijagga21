@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushijagga21" alt="khushijagga21" /></a> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning ** Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/khushijagga21/sites](https://app.netlify.com/teams/khushijagga21/sites)
 
