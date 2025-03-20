@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQE6j7ldaDG3bA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734765658647?e=1740009600&v=beta&t=hgkTTI4jpuyNH86CN5Zolja5DnS0a8pXRWunQlj290E"></img>
 
 <h1 align="center">Hi 👋, I'm Khushi Jagga</h1>
-<h3 align="center">A passionate frontend developer and a Open-Source Contributor from India</h3>
+<h3 align="center">A passionate MERN Stack developer and a Open-Source Contributor from India</h3>
 <br>
 <br>
  <img align="center"alt="coding"width="400"src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
